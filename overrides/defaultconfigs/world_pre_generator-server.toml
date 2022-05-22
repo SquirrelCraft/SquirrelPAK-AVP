@@ -5,7 +5,7 @@ send_feedback = true
 [delays]
 	#Time between 2 status prints
 	#Range: > 1
-	print = 15
+	print = 60
 	#Time between 2 saving events
 	#Range: > 1
 	save = 180
@@ -16,5 +16,5 @@ send_feedback = true
 	enabled = true
 	#How many chunk generation shall run in parallel? If the value is "0", the number of processor cores is used.
 	#Range: > 0
-	count = 1
+	count = 3
 

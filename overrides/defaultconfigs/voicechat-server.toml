@@ -28,7 +28,7 @@
 	#The frequency in which keep alive packets are sent
 	#Setting this to a higher value may result in timeouts
 	#Range: > 1000
-	keep_alive = 900
+	keep_alive = 1000
 	#If group chats are allowed
 	enable_groups = true
 	#If players in group chats can be heard locally

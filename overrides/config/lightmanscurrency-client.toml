@@ -52,3 +52,8 @@
 		#Range: > -2147483648
 		notificationButtonCreativeY = -70
 
+	#Notification Settings
+	[client.notification]
+		#Whether notifications should be posted in your chat when you receive them.
+		notificationsInChat = true
+

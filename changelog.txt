@@ -1,3 +1,63 @@
+================================================================================
+SquirrelPAK AV - Almost Vanilla PLUS!
+Change Log
+================================================================================
+
+The Money Update 
+
+In this update we have included more server settings and tweaked 
+lightmanscurrency config. We have enabled melting coins down to ingots in the 
+coin press. Because of this, coins can be treated as resources. We have tweaked
+the worth of each coin based on this, as well as tweaking recipes of the ATM and
+coin press. Coin values are as follows: N=32, D=32e, E=2g, G=2i, I=100c, C=1c.
+
+
+
+
+Known Issues:
+There is one known issue and that is with the options.txt file. There are issues
+with the mods I usually use so until we get that fix I will ship a options 
+file. Before updating to new versions if you make changes to your options file 
+ make a backup copy first and replace it after updating. 
+
+
+
+SquirrelPAK AV+ - Beta 2
+================================================================================
+File Version 0.2.0+1.18.2
+
+
+
+Added:
+------------------------------------------- 
+AI-Improvements-1.18.2-0.5.0
+bwncr-3.13.21
+Iceberg-1.18.2-1.0.44
+lightmanscurrency-1.18.2-1.1.3.5
+supplementaries-1.18.2-1.4.0
+selene-1.18.2-1.16.1
+------------------------------------------- 
+
+
+Updated:
+------------------------------------------- 
+N/A
+------------------------------------------- 
+
+
+Removed:
+------------------------------------------- 
+N/A
+------------------------------------------- 
+
+
+
+
+
+
+
+
+
 
 ================================================================================
 SquirrelPAK AV - Almost Vanilla PLUS!
