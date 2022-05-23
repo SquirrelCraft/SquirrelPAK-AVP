@@ -1,6 +1,61 @@
 ================================================================================
 SquirrelPAK AV - Almost Vanilla PLUS!
 Change Log
+
+SquirrelPAK AVP - Beta 3
+File Version 0.3.0+1.18.2
+================================================================================
+
+The Oops Update 
+
+In this quick patch we forgot to configure a mod that is kind of important for
+our servers. I blame the Q/A Squirrels I will deal with them later. Be sure to 
+check out the changes for Beta 2. While this was being worked on we had a few
+mods that were updated so we threw them into this one as well.
+
+
+
+Known Issues:
+There is one known issue and that is with the options.txt file. There are issues
+with the mods I usually use so until we get that fix I will ship a options 
+file. Before updating to new versions if you make changes to your options file 
+ make a backup copy first and replace it after updating. 
+
+
+
+
+Added:
+------------------------------------------- 
+N/A
+------------------------------------------- 
+
+
+Updated:
+------------------------------------------- 
+architectury-4.4.61
+ftb-ranks-forge-1802.1.8-build.34
+selene-1.18.2-1.16.2
+guardvillagers-1.18.2.1.4.2
+------------------------------------------- 
+
+
+Removed:
+------------------------------------------- 
+N/A
+------------------------------------------- 
+
+
+
+
+
+
+
+================================================================================
+SquirrelPAK AV - Almost Vanilla PLUS!
+Change Log
+
+SquirrelPAK AV+ - Beta 2
+File Version 0.2.0+1.18.2
 ================================================================================
 
 The Money Update 
@@ -20,11 +75,6 @@ with the mods I usually use so until we get that fix I will ship a options
 file. Before updating to new versions if you make changes to your options file 
  make a backup copy first and replace it after updating. 
 
-
-
-SquirrelPAK AV+ - Beta 2
-================================================================================
-File Version 0.2.0+1.18.2
 
 
 
