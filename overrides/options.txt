@@ -146,7 +146,7 @@ key_key.jei.showUses2:key.mouse.right
 key_key.jei.clearSearchBar:key.mouse.right
 key_key.jei.previousSearch:key.keyboard.up
 key_key.jei.nextSearch:key.keyboard.down
-key_key.jei.toggleCheatMode:key.keyboard.unknown
+key_key.jei.toggleCheatMode:key.keyboard.c:ALT
 key_key.jei.cheatOneItem:key.mouse.left
 key_key.jei.cheatOneItem2:key.mouse.right
 key_key.jei.cheatItemStack:key.mouse.left:SHIFT
@@ -168,9 +168,10 @@ key_key.corpse.death_history:key.keyboard.u
 key_Open the Crash Utilities Screen:key.keyboard.u:CONTROL
 key_Copy Container Class:key.keyboard.unknown
 key_Show Slot Index Tooltips:key.keyboard.unknown
+key_key.curios.open.desc:key.keyboard.3:ALT
 key_mapfrontiers.key.open_settings:key.keyboard.f8
 key_key.spyglass-improvements.use:key.keyboard.z:ALT
-key_key.curios.open.desc:key.keyboard.3:ALT
+key_framedblocks.key.update_cull:key.keyboard.f9
 key_key.ftbquests.quests:key.keyboard.semicolon
 key_servertabinfo.keys.show:key.keyboard.tab:CONTROL
 key_key.tconstruct.helmet_interact:key.keyboard.z
@@ -181,6 +182,8 @@ key_key.toggleLiquids:key.keyboard.unknown
 key_key.toggleVisible:key.keyboard.unknown
 key_key.easy_villagers.pick_up:key.keyboard.unknown
 key_key.easy_villagers.cycle_trades:key.keyboard.unknown
+key_key.open_menu:key.keyboard.r
+key_key.open_muffler_gui:key.keyboard.unknown
 key_key.push_to_talk:key.keyboard.caps.lock
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.m
@@ -191,8 +194,6 @@ key_key.voice_chat_settings:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.g
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
-key_key.open_menu:key.keyboard.r
-key_Open sound muffler screen:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.1:ALT
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown

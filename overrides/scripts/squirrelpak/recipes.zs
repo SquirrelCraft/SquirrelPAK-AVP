@@ -12,6 +12,5 @@ craftingTable.addShapeless("scsp_quartz4", <item:minecraft:quartz> * 8, [<item:m
 craftingTable.addShapeless("scsp_quartz5", <item:minecraft:quartz> * 8, [<item:minecraft:quartz_pillar>, <item:minecraft:flint>]);
 
 
-# Add way to make leather from flesh
-craftingTable.addShaped("scsp_leather", <item:minecraft:leather>, 
-[ [<item:minecraft:rotten_flesh>, <item:minecraft:rotten_flesh>, <item:minecraft:rotten_flesh>], [<item:minecraft:rotten_flesh>, <item:minecraft:item_frame>, <item:minecraft:rotten_flesh>], [<item:minecraft:rotten_flesh>, <item:minecraft:rotten_flesh>, <item:minecraft:rotten_flesh>]]);
+# Better way to make leather from flesh
+craftingTable.addShaped("scsp_leather", <item:minecraft:leather>, [ [<tag:items:forge:rods/wooden>, <tag:items:forge:rods/wooden>, <item:minecraft:rotten_flesh>], [<tag:items:forge:rods/wooden>, <item:minecraft:rotten_flesh>, <tag:items:forge:rods/wooden>], [<item:minecraft:rotten_flesh>, <tag:items:forge:rods/wooden>, <tag:items:forge:rods/wooden>]]);

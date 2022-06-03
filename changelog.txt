@@ -2,6 +2,88 @@
 SquirrelPAK AV - Almost Vanilla PLUS!
 Change Log
 
+SquirrelPAK AVP - Beta 4
+File Version 1.18.2+0.4.0
+================================================================================
+
+Check Ya Drawers Update 
+
+In this update we fixed Issue #2 tindril pearls were not able to be used in some 
+mods. Added a way to convert one to the other. Also changed the recipe for 
+rotten flesh to leather to only use sticks and not a item frame.
+
+Saw a remake of storage drawers called Functional Storage. It looks cool and the
+fact that you do not have to have them touching from the controller looks 
+awesome! So I have added that as well. We may remove Storage Drawers in later
+if we think it's better.
+
+Also added Ender Mail, a way to ship stuff around your world, thought that could
+be a cool way to send stuff to your friends or to your new base 1000 blocks 
+away.
+
+Updated mods that had fixes
+
+Last, in order to keep this mod pack going on and not have to rename after every 
+update to Minecraft the pack version will start with the Minecraft version then
+the pack version. This way we can release updated versions of the packs on the 
+same mod pack page. 
+
+Known Issues:
+There is one known issue and that is with the options.txt file. There are issues
+with the mods I usually use so until we get that fix I will ship a options 
+file. Before updating to new versions if you make changes to your options file 
+ make a backup copy first and replace it after updating. 
+
+
+
+
+Added:
+------------------------------------------- 
+EnderMail-1.18.2-1.2.4.jar
+functionalstorage-1.18.2-0.0.15.jar
+------------------------------------------- 
+
+
+Updated:
+------------------------------------------- 
+AdChimneys-1.18.2-8.2.0.0-build.0935.jar
+architectury-4.4.68.jar
+fm_audio_extension_forge_1.0.1_MC_1.18-1.18.2.jar
+CraftTweaker-forge-1.18.2-9.1.144.jar
+crashutilities-4.1.jar
+drippyloadingscreen_forge_1.6.2_MC_1.18-1.18.2.jar
+extremesoundmuffler-3.25_forge-1.18.x.jar
+farsight-1.18.2-1.9.jar
+ForgeEndertech-1.18.2-9.0.2.0-build.0935.jar
+framedcompactdrawers-1.18-4.1.0.jar
+FramedBlocks-5.2.0.jar
+JustEnoughResources-1.18.2-0.14.1.170.jar
+lightmanscurrency-1.18.2-1.1.4.1.jar
+lootr-1.18.2-0.2.17.54.jar
+Patchouli-1.18.2-69.jar
+selene-1.18.2-1.16.4.jar
+SimpleBackups-1.18.2-1.1.8.jar
+sophisticatedbackpacks-1.18.2-3.17.2.588.jar
+sophisticatedcore-1.18.2-0.2.5.28.jar
+StorageDrawers-1.18.2-10.2.1.jar
+The_Graveyard_1.8_(FORGE)_for_1.18.2.jar
+------------------------------------------- 
+
+
+Removed:
+------------------------------------------- 
+N/A
+------------------------------------------- 
+
+
+
+
+
+
+================================================================================
+SquirrelPAK AV - Almost Vanilla PLUS!
+Change Log
+
 SquirrelPAK AVP - Beta 3
 File Version 0.3.0+1.18.2
 ================================================================================

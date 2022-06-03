@@ -300,7 +300,7 @@ customization {
   y = 62
   delayappearance = true
   alignment = centered
-  value = v0.3.0+1.18.2
+  value = v1.18.2+0.4.0
   delayappearanceeverytime = false
 }
 
@@ -349,6 +349,6 @@ customization {
   y = -18
   scale = 1.5
   alignment = centered
-  value = §f(§cOpen Beta v3§f)
+  value = §f(§cOpen Beta v4§f)
 }
 
