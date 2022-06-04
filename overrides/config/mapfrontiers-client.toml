@@ -22,6 +22,14 @@ newFrontierShapeWidth = 10
 newFrontierShapeRadius = 20
 #Hides the name if it is wider than the frontier at the zoom level it is being viewed.
 hideNamesThatDontFit = true
+#Range: 0 ~ 7
+newFrontierChunkShape = 0
+#Range: 0 ~ 32
+newFrontierChunkShapeWidth = 5
+#Range: 0 ~ 32
+newFrontierChunkShapeLength = 5
+#Allowed Values: Vertex, Chunk
+newFrontierMode = "Vertex"
 
 [hud]
 	#Show the HUD on screen.

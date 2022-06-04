@@ -46,4 +46,6 @@
 		enableAdditionalOreDrops = true
 		#If true, enables additional ore drops for swords. True by default.
 		enableAdditionalMobDrops = true
+		#If true, enables additional crop drops for hoes. True by default.
+		enableAdditionalCropDrops = true
 

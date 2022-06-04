@@ -7,5 +7,5 @@
 	#If true, enables a search bar in the Advanced Netherite creative tab. False by default.
 	enableSearchBarInCreativeTab = false
 	#If true, forcefully disables support for Detail Armor Bar mod. Requires the game to be restarted. False by default.
-	forceDisableDetailArmorBarSuport = false
+	forceDisableDetailArmorBarSupport = false
 

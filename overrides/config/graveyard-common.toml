@@ -32,9 +32,9 @@
 		separation = 16
 		#Range: 0 ~ 10000000000
 		salt = 1690192399
-		whitelist = ["#forest"]
-		blacklist = ["minecraft:dark_forest", "minecraft:birch_forest", "minecraft:old_growth_birch_forest", "graveyard_biomes:haunted_lakes", "graveyard_biomes:haunted_forest"]
-		modWhitelist = ["#minecraft", "#graveyard_biomes"]
+		whitelist = ["minecraft:forest", "minecraft:flower_forest", "terralith:brushland", "terralith:blooming_valley", "terralith:temperate_highlands", "graveyard_biomes:eroded_haunted_forest"]
+		blacklist = []
+		modWhitelist = ["#minecraft", "#graveyard_biomes", "#terralith"]
 		canSpawnMobs = true
 
 	["The Graveyard - Structures Config".small_graveyard]
@@ -58,9 +58,9 @@
 		separation = 10
 		#Range: 0 ~ 10000000000
 		salt = 304812394
-		whitelist = ["#forest", "#taiga"]
-		blacklist = ["minecraft:forest", "minecraft:flower_forest", "minecraft:birch_forest", "minecraft:old_growth_birch_forest", "minecraft:windswept_forest", "graveyard_biomes:eroded_haunted_forest", "graveyard_biomes:haunted_lakes"]
-		modWhitelist = ["#minecraft", "#graveyard_biomes"]
+		whitelist = ["#taiga", "minecraft:dark_forest", "terralith:forested_highlands", "terralith:lush_valley", "terralith:shield", "terralith:shield_clearing", "terralith:wintry_forest", "graveyard_biomes:haunted_forest"]
+		blacklist = []
+		modWhitelist = ["#minecraft", "#graveyard_biomes", "#terralith"]
 		canSpawnMobs = true
 
 	["The Graveyard - Structures Config".mushroom_grave]
@@ -84,9 +84,9 @@
 		separation = 20
 		#Range: 0 ~ 10000000000
 		salt = 451235912
-		whitelist = ["#forest", "#swamp"]
-		blacklist = ["minecraft:forest", "minecraft:flower_forest", "minecraft:birch_forest", "minecraft:old_growth_birch_forest", "minecraft:windswept_forest", "graveyard_biomes:haunted_forest"]
-		modWhitelist = ["#minecraft", "#graveyard_biomes"]
+		whitelist = ["minecraft:dark_forest", "#swamp", "terralith:moonlight_valley", "terralith:cloud_forest", "graveyard_biomes:haunted_lakes"]
+		blacklist = []
+		modWhitelist = ["#minecraft", "#graveyard_biomes", "#terralith"]
 		canSpawnMobs = false
 
 	["The Graveyard - Structures Config".memorial_tree]
@@ -338,10 +338,10 @@
 
 	["The Graveyard - Horde Config".horde]
 		generate = true
-		#Range: 1 ~ 1000000
-		ticksUntilSpawnHorde = 24000
 		#Range: 0 ~ 1000
 		mobSpawnAttempts = 40
+		#Range: 1 ~ 1000000
+		ticksUntilSpawnHorde = 24000
 		#Range: 1 ~ 1000000
 		additionalRandomizedTicks = 1200
 
