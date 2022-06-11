@@ -2,6 +2,60 @@
 SquirrelPAK AV - Almost Vanilla PLUS!
 Change Log
 
+SquirrelPAK AVP - v1.0.0
+File Version 1.18.2+1.0.0
+================================================================================
+
+We Made It! Update 
+
+This is the first production release!
+
+Updated any mods that needed to, updated game manual to include new mod pack. You should check those out! Also added another Macaw mod to complete the set
+
+
+Known Issues:
+There is one known issue and that is with the options.txt file. There are issues
+with the mods I usually use so until we get that fix I will ship a options 
+file. Before updating to new versions if you make changes to your options file 
+ make a backup copy first and replace it after updating. 
+
+
+
+
+Added:
+------------------------------------------- 
+mcw-paths-1.0.0-mc1.18.2
+------------------------------------------- 
+
+
+Updated:
+------------------------------------------- 
+advancednetherite-1.12.3-1.18.2
+CraftTweaker-forge-1.18.2-9.1.148
+fancymenu_forge_2.7.2-1_MC_1.18.2
+geckolib-1.18-forge-3.0.20
+mcw-fences-1.0.5-mc1.18.2
+selene-1.18.2-1.17.1
+titanium-1.18.2-3.5.5-37
+supplementaries-1.18.2-1.4.1
+------------------------------------------- 
+
+
+Removed:
+------------------------------------------- 
+N/A
+------------------------------------------- 
+
+
+
+
+
+
+
+================================================================================
+SquirrelPAK AV - Almost Vanilla PLUS!
+Change Log
+
 SquirrelPAK AVP - RC1
 File Version 1.18.2+0.5.1
 ================================================================================
@@ -32,18 +86,18 @@ N/A
 
 Updated:
 ------------------------------------------- 
-advancednetherite-1.12.0-1.18.2.jar
-CraftTweaker-forge-1.18.2-9.1.146.jar
-enchantmenttransfer-0.0.4-1.18.2.jar
-extremesoundmuffler-3.27_forge-1.18.x.jar
-FramedBlocks-5.2.1.jar
-geckolib-1.18-forge-3.0.19.jar
-MapFrontiers-1.18.2-2.2.0.jar
-selene-1.18.2-1.16.6.jar
-sophisticatedcore-1.18.2-0.2.6.30.jar
-titanium-1.18.2-3.5.4-36.jar
-toms_storage-1.18.2-1.3.2.jar
-drippyloadingscreen_forge_1.6.3_MC_1.18-1.18.2.jar
+advancednetherite-1.12.0-1.18.2
+CraftTweaker-forge-1.18.2-9.1.146
+enchantmenttransfer-0.0.4-1.18.2
+extremesoundmuffler-3.27_forge-1.18.x
+FramedBlocks-5.2.1
+geckolib-1.18-forge-3.0.19
+MapFrontiers-1.18.2-2.2.0
+selene-1.18.2-1.16.6
+sophisticatedcore-1.18.2-0.2.6.30
+titanium-1.18.2-3.5.4-36
+toms_storage-1.18.2-1.3.2
+drippyloadingscreen_forge_1.6.3_MC_1.18-1.18.2
 ------------------------------------------- 
 
 
@@ -99,34 +153,34 @@ file. Before updating to new versions if you make changes to your options file
 
 Added:
 ------------------------------------------- 
-EnderMail-1.18.2-1.2.4.jar
-functionalstorage-1.18.2-0.0.15.jar
+EnderMail-1.18.2-1.2.4
+functionalstorage-1.18.2-0.0.15
 ------------------------------------------- 
 
 
 Updated:
 ------------------------------------------- 
-AdChimneys-1.18.2-8.2.0.0-build.0935.jar
-architectury-4.4.68.jar
-fm_audio_extension_forge_1.0.1_MC_1.18-1.18.2.jar
-CraftTweaker-forge-1.18.2-9.1.144.jar
-crashutilities-4.1.jar
-drippyloadingscreen_forge_1.6.2_MC_1.18-1.18.2.jar
-extremesoundmuffler-3.25_forge-1.18.x.jar
-farsight-1.18.2-1.9.jar
-ForgeEndertech-1.18.2-9.0.2.0-build.0935.jar
-framedcompactdrawers-1.18-4.1.0.jar
-FramedBlocks-5.2.0.jar
-JustEnoughResources-1.18.2-0.14.1.170.jar
-lightmanscurrency-1.18.2-1.1.4.1.jar
-lootr-1.18.2-0.2.17.54.jar
-Patchouli-1.18.2-69.jar
-selene-1.18.2-1.16.4.jar
-SimpleBackups-1.18.2-1.1.8.jar
-sophisticatedbackpacks-1.18.2-3.17.2.588.jar
-sophisticatedcore-1.18.2-0.2.5.28.jar
-StorageDrawers-1.18.2-10.2.1.jar
-The_Graveyard_1.8_(FORGE)_for_1.18.2.jar
+AdChimneys-1.18.2-8.2.0.0-build.0935
+architectury-4.4.68
+fm_audio_extension_forge_1.0.1_MC_1.18-1.18.2
+CraftTweaker-forge-1.18.2-9.1.144
+crashutilities-4.1
+drippyloadingscreen_forge_1.6.2_MC_1.18-1.18.2
+extremesoundmuffler-3.25_forge-1.18.x
+farsight-1.18.2-1.9
+ForgeEndertech-1.18.2-9.0.2.0-build.0935
+framedcompactdrawers-1.18-4.1.0
+FramedBlocks-5.2.0
+JustEnoughResources-1.18.2-0.14.1.170
+lightmanscurrency-1.18.2-1.1.4.1
+lootr-1.18.2-0.2.17.54
+Patchouli-1.18.2-69
+selene-1.18.2-1.16.4
+SimpleBackups-1.18.2-1.1.8
+sophisticatedbackpacks-1.18.2-3.17.2.588
+sophisticatedcore-1.18.2-0.2.5.28
+StorageDrawers-1.18.2-10.2.1
+The_Graveyard_1.8_(FORGE)_for_1.18.2
 ------------------------------------------- 
 
 

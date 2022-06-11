@@ -1,5 +1,5 @@
 ---
-SquirrelPAK AV+
+SquirrelPAK AVP
 ---
 
 SquirrelPAK Almost Vanilla PLUS!
