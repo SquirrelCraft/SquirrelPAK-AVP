@@ -165,19 +165,19 @@ key_placebo.toggleTrails:key.keyboard.unknown
 key_placebo.toggleWings:key.keyboard.unknown
 key_Show comparison tooltip:key.keyboard.left.shift
 key_key.corpse.death_history:key.keyboard.u
+key_mapfrontiers.key.open_settings:key.keyboard.f8
 key_Open the Crash Utilities Screen:key.keyboard.u:CONTROL
 key_Copy Container Class:key.keyboard.unknown
 key_Show Slot Index Tooltips:key.keyboard.unknown
 key_key.curios.open.desc:key.keyboard.3:ALT
-key_mapfrontiers.key.open_settings:key.keyboard.f8
 key_key.spyglass-improvements.use:key.keyboard.z:ALT
 key_framedblocks.key.update_cull:key.keyboard.f9
 key_key.ftbquests.quests:key.keyboard.semicolon
 key_servertabinfo.keys.show:key.keyboard.tab:CONTROL
-key_key.tconstruct.helmet_interact:key.keyboard.z
-key_key.tconstruct.leggings_interact:key.keyboard.i
 key_key.wallet:key.keyboard.2:ALT
 key_key.team_settings:key.keyboard.right.bracket
+key_key.tconstruct.helmet_interact:key.keyboard.z
+key_key.tconstruct.leggings_interact:key.keyboard.i
 key_key.toggleLiquids:key.keyboard.unknown
 key_key.toggleVisible:key.keyboard.unknown
 key_key.easy_villagers.pick_up:key.keyboard.unknown

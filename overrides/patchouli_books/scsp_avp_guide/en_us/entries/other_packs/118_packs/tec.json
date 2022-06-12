@@ -1,8 +1,8 @@
 {
     "name": "SquirrelPAK TEC",
     "icon": "squirrelpak:textures/logos/scsp_tec_thumb.png",
-    "category": "patchouli:other_packs",
-  "sortnum": 4,
+    "category": "patchouli:other_packs/118_packs",
+  "sortnum": 3,
   "pages": [
         {
             "type": "patchouli:text",

@@ -2,6 +2,67 @@
 SquirrelPAK AV - Almost Vanilla PLUS!
 Change Log
 
+SquirrelPAK AVP - v1.0.1
+File Version 1.18.2+1.0.1
+================================================================================
+
+Just a Patch Update 
+
+
+Updated any mods that needed updates, updated the in game manual.
+
+
+Known Issues:
+There is one known issue and that is with the options.txt file. There are issues with the mods I usually use so until we get that fix I will ship a options  file. Before updating to new versions if you make changes to your options file  make a backup copy first and replace it after updating. 
+
+
+
+
+Added:
+------------------------------------------- 
+N/A
+------------------------------------------- 
+
+
+Updated:
+------------------------------------------- 
+architectury-4.4.70
+fm_audio_extension_forge_1.1.0_MC_1.18-1.18.2
+Bookshelf-Forge-1.18.2-13.2.20
+collective-1.18.2-4.28
+CraftTweaker-forge-1.18.2-9.1.153
+CreativeCore_FORGE_v2.6.10_mc1.18.2
+ftb-chunks-forge-1802.3.6-build.147
+ftb-library-forge-1802.3.6-build.123
+functionalstorage-1.18.2-0.0.17
+geckolib-forge-1.18-3.0.24
+guardvillagers-1.18.2.1.4.3
+journeymap-1.18.2-5.8.5-forge
+lightmanscurrency-1.18.2-1.1.4.2a
+Mantle-1.18.2-1.9.26
+selene-1.18.2-1.17.7
+voicechat-forge-1.18.2-2.2.45
+sophisticatedbackpacks-1.18.2-3.17.4.592
+sophisticatedcore-1.18.2-0.3.1.39
+spark-1.9.11-forge
+supplementaries-1.18.2-1.4.3
+The_Graveyard_1.9_(FORGE)_for_1.18.2
+titanium-1.18.2-3.5.6-38
+------------------------------------------- 
+
+
+Removed:
+------------------------------------------- 
+N/A
+------------------------------------------- 
+
+
+
+
+================================================================================
+SquirrelPAK AV - Almost Vanilla PLUS!
+Change Log
+
 SquirrelPAK AVP - v1.0.0
 File Version 1.18.2+1.0.0
 ================================================================================

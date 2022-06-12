@@ -300,7 +300,7 @@ customization {
   y = 62
   delayappearance = true
   alignment = centered
-  value = v1.18.2+1.0.0
+  value = v1.18.2+1.0.1
   delayappearanceeverytime = false
 }
 
